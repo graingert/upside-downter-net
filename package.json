@@ -3,7 +3,4 @@
   "description": "proxy but upside-down",
   "version": "0.0.1",
   "private": true,
-  "dependencies": {
-    "bufferstream": "0.5.x"
-  }
 }
